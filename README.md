@@ -84,3 +84,7 @@ Shubham Sahu
 ---
 
 This project ensures **full privacy, security, and offline functionality** by running **LLMs locally** and storing documents in **a decentralized manner using IPFS.** 🚀  
+
+## **FlowChart**
+![image](https://github.com/user-attachments/assets/11c8b6a9-c5a3-4730-b68e-1845df845d14)
+
