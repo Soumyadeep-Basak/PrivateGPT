@@ -78,9 +78,9 @@ Unlike traditional cloud-based AI solutions, this chatbot **runs locally**, prov
 ---
 
 ## **Contributors**  
-**Debayan Ghosh** 
-**Soumyadeep Basak ** 
-**Shubham Sahu** 
+Debayan Ghosh
+Soumyadeep Basak 
+Shubham Sahu
 ---
 
 This project ensures **full privacy, security, and offline functionality** by running **LLMs locally** and storing documents in **a decentralized manner using IPFS.** 🚀  
